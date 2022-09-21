@@ -1,0 +1,8 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/murilokrugner/video-maker",
+  "author": "murilokrugner <murilokrugner@hotmail.com>",
+  "license": "MIT"
+}
